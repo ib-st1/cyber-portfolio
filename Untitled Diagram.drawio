@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-20T17:51:32.333Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="PSaSpvBXD6Ez12PERFI1" version="24.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-20T17:54:07.494Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="IcF0oZRJDVPZX7aP2gx1" version="24.2.7" type="github">
   <diagram name="Page-1" id="LFvecWiiBEm5lXg-urim">
-    <mxGraphModel dx="643" dy="767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="536" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -138,16 +138,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7jtKeXVtuovnLapuxEO--34" value="Wazzuh Manager&lt;div&gt;Trigger Allerts &amp;amp; Perform response actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="189" y="810" width="250" height="40" as="geometry" />
+          <mxGeometry x="150" y="810" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7jtKeXVtuovnLapuxEO--39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jtKeXVtuovnLapuxEO--36" target="7jtKeXVtuovnLapuxEO--38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7jtKeXVtuovnLapuxEO--36" value="&lt;div&gt;Shuffle&lt;/div&gt;Receive wazzuh alerts &amp;amp; Send responsive actions&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="800" width="290" height="60" as="geometry" />
+        <mxCell id="7jtKeXVtuovnLapuxEO--41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jtKeXVtuovnLapuxEO--36" target="7jtKeXVtuovnLapuxEO--40">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="7jtKeXVtuovnLapuxEO--38" value="&lt;div&gt;Shuffle&lt;/div&gt;Receive wazzuh alerts &amp;amp; Send responsive actions&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="660" width="290" height="60" as="geometry" />
+        <mxCell id="7jtKeXVtuovnLapuxEO--43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7jtKeXVtuovnLapuxEO--36" target="7jtKeXVtuovnLapuxEO--42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7jtKeXVtuovnLapuxEO--36" value="&lt;div&gt;Shuffle&lt;/div&gt;Receive wazzuh alerts &amp;amp; Send responsive actions&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="800" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7jtKeXVtuovnLapuxEO--38" value="&lt;div&gt;OSINT&lt;/div&gt;&lt;div&gt;enrich IOCs&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="680" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7jtKeXVtuovnLapuxEO--40" value="TheHive&lt;div&gt;Create alert in case management&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="505" y="910" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7jtKeXVtuovnLapuxEO--42" value="Email&lt;div&gt;Send email &amp;amp; Responsive actions&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="810" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
